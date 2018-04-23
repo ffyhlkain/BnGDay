@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 353c5a1e7542e8848ac253e2d3c488cb
-timeCreated: 1524491532
+timeCreated: 1524492776
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -211,12 +211,12 @@ TextureImporter:
       name: Hips Joint
       rect:
         serializedVersion: 2
-        x: 240
-        y: 286
-        width: 99
-        height: 66
+        x: 239.65079
+        y: 285.30157
+        width: 100.04767
+        height: 65.301544
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4982546, y: 0.5160433}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
@@ -287,6 +287,6 @@ TextureImporter:
       tessellationDetail: -1
     outline: []
   spritePackingTag: 
-  userData: 99908998120012
+  userData: 99909158188694
   assetBundleName: 
   assetBundleVariant: 
