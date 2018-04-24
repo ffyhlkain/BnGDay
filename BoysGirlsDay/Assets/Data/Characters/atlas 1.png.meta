@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a25214da269b59743b2dd1333c113bc1
-timeCreated: 1524573981
+timeCreated: 1524577463
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -428,6 +428,6 @@ TextureImporter:
       tessellationDetail: -1
     outline: []
   spritePackingTag: uchan
-  userData: 99914476416434
+  userData: 99914686387765
   assetBundleName: 
   assetBundleVariant: 
