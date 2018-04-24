@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a25214da269b59743b2dd1333c113bc1
-timeCreated: 1524577463
+timeCreated: 1524579625
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -157,12 +157,12 @@ TextureImporter:
       name: hair_3
       rect:
         serializedVersion: 2
-        x: 1608
-        y: 1810.2693
-        width: 62.262817
-        height: 189.54944
+        x: 1218
+        y: 1164
+        width: 120
+        height: 294
       alignment: 9
-      pivot: {x: 0.47379804, y: 0.5024057}
+      pivot: {x: 0.50261134, y: 0.9328048}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
@@ -378,12 +378,12 @@ TextureImporter:
       name: ribbon
       rect:
         serializedVersion: 2
-        x: 696.23126
-        y: 913.0417
-        width: 178
-        height: 122.91742
+        x: 1740
+        y: 1104.429
+        width: 248
+        height: 334
       alignment: 9
-      pivot: {x: 0.4843534, y: 0.6942502}
+      pivot: {x: 0.51209676, y: 0.5286558}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
@@ -391,12 +391,12 @@ TextureImporter:
       name: ribbon_2
       rect:
         serializedVersion: 2
-        x: 470
-        y: 1040
-        width: 290.2804
-        height: 181
+        x: 1218
+        y: 1164
+        width: 120
+        height: 294
       alignment: 9
-      pivot: {x: 0.90614605, y: 0.1656049}
+      pivot: {x: 0.50261134, y: 0.9328048}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
@@ -428,6 +428,6 @@ TextureImporter:
       tessellationDetail: -1
     outline: []
   spritePackingTag: uchan
-  userData: 99914686387765
+  userData: 99914708658072
   assetBundleName: 
   assetBundleVariant: 
