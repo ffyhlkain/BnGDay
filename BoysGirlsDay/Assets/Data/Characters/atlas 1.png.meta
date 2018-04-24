@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a25214da269b59743b2dd1333c113bc1
-timeCreated: 1524570596
+timeCreated: 1524573981
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -209,12 +209,12 @@ TextureImporter:
       name: neck
       rect:
         serializedVersion: 2
-        x: 1139.8496
-        y: 1655.1239
-        width: 135
-        height: 108
+        x: 1138.0706
+        y: 1592.857
+        width: 136.77905
+        height: 170.26685
       alignment: 9
-      pivot: {x: 0.6122251, y: 0.46181574}
+      pivot: {x: 0.6172688, y: 0.65863055}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: -1
@@ -428,6 +428,6 @@ TextureImporter:
       tessellationDetail: -1
     outline: []
   spritePackingTag: uchan
-  userData: 99914248905429
+  userData: 99914476416434
   assetBundleName: 
   assetBundleVariant: 
