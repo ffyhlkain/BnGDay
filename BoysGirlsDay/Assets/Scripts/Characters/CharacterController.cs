@@ -10,22 +10,33 @@ public class CharacterController : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             //Debug.Log("A pressed");
-            if (character != null) character.animation.Play("idle");
+            if (character != null) character.animation.Play("leftAttack", 1);
         }
         if (Input.GetKey(KeyCode.S))
         {
-            //Debug.Log("S pressed");
             if (character != null) character.animation.Play("idle");
+            //Debug.Log("S pressed");
         }
         if (Input.GetKey(KeyCode.D))
         {
             //Debug.Log("D pressed");
-            if (character != null) character.animation.Play("idle");
+            if (character != null) character.animation.Play("rightAttack", 1);
         }
-        if (Input.GetKey(KeyCode.W))
+        //if (Input.GetKey(KeyCode.W))
+        //{
+        //    //Debug.Log("W pressed");
+        //    if (character != null) character.animation.Play("idle");
+        //}
+    }
+
+    private void Update()
+    {
+        if (character != null && character.animation != null)
         {
-            //Debug.Log("W pressed");
-            if (character != null) character.animation.Play("idle");
+            if (!character.animation.isPlaying)
+            {
+                character.animation.Play("idle");
+            }
         }
     }
 }
